@@ -2,12 +2,11 @@
 
 SpringBoot redis application
 
-In this Application we are using HashOperation.
-We can manage redis hash values using the HashOperations helper class.
+In this application, we utilize the HashOperations feature. This facilitates the management of Redis hash values through the assistance of the HashOperations helper class.
 
 ![img_4.png](img_4.png)
 
-HashOperations have put(), get(), entries(), values, and delete etc. as basic hash map operations to operate with redis hash key values.
+HashOperations provide fundamental hash map operations such as put(), get(), entries(), values(), and delete() for interacting with Redis hash key values.
 
 The Redis CACHE has also been configured, which will be used to store cached information for the defined time in the RedisCacheManagerBuilderCustomizer BEAN.
 This configuration is not currently being utilized but was set up for the purpose of study and functions as follows:
