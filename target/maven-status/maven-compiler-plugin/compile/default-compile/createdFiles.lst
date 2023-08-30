@@ -1,1 +1,5 @@
 com\example\redis\RedisApplication.class
+com\example\redis\repository\MenuRepo.class
+com\example\redis\entity\Menu.class
+com\example\redis\config\RedisConfig.class
+com\example\redis\controller\MenuController.class
