@@ -2,6 +2,13 @@
 
 SpringBoot redis application
 
+In this Application we are using HashOperation.
+We can manage redis hash values using the HashOperations helper class.
+
+![img_4.png](img_4.png)
+
+HashOperations have put(), get(), entries(), values, and delete etc. as basic hash map operations to operate with redis hash key values.
+
 To run application, execute the following steps.
 1. Run docker file in application root directory.
 > docker-compose up -d
