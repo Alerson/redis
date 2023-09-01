@@ -15,7 +15,7 @@ For example, the code below performs a query for all information in the Redis da
 method will retrieve information from the CACHE. The CACHE duration was set to 5 minutes in the BeanConfiguration. After these 5 minutes, a new query will be executed in the database and stored in the CACHE.
 <pre>
 @Cacheable(value = "itemCache")
-public List<Menu> retrieveAllInformation() {
+public List< Menu > retrieveAllInformation() {
     return menuRepo.findAll();
 }
 </pre>
