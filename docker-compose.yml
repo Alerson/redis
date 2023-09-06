@@ -5,7 +5,7 @@ services:
     ports:
       - "6379:6379"
   spring-app:
-    build: C:\Users\Public\workspace\redis  # Replace with the actual path
+    build: .  # Replace with the actual path
     ports:
       - "8080:8080"
     depends_on:
