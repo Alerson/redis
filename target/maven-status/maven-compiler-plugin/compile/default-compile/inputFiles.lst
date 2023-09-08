@@ -1,5 +1,5 @@
-C:\Users\Public\workspace\redis\src\main\java\com\example\redis\config\RedisConfig.java
-C:\Users\Public\workspace\redis\src\main\java\com\example\redis\controller\MenuController.java
-C:\Users\Public\workspace\redis\src\main\java\com\example\redis\RedisApplication.java
-C:\Users\Public\workspace\redis\src\main\java\com\example\redis\repository\MenuRepo.java
-C:\Users\Public\workspace\redis\src\main\java\com\example\redis\entity\Menu.java
+/Users/alersonrigo/workspace/redis/src/main/java/com/example/redis/entity/Menu.java
+/Users/alersonrigo/workspace/redis/src/main/java/com/example/redis/RedisApplication.java
+/Users/alersonrigo/workspace/redis/src/main/java/com/example/redis/config/RedisConfig.java
+/Users/alersonrigo/workspace/redis/src/main/java/com/example/redis/controller/MenuController.java
+/Users/alersonrigo/workspace/redis/src/main/java/com/example/redis/repository/MenuRepo.java
